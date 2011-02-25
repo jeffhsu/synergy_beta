@@ -1,4 +1,8 @@
-== Welcome to Rails
+== Welcome to Synergy
+
+Synergy is a social network dedicated to saving energy.
+
+Rails
 
 Rails is a web-application framework that includes everything needed to create
 database-backed web applications according to the Model-View-Control pattern.
